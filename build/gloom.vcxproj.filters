@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Sondre\Documents\gloom\gloom\src\main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sondre\Documents\gloom\gloom\vendor\glad\src\glad.c">
+      <Filter>vendors</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\gloom\camera.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\gloom\gloom.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\gloom\shader.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\program.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Sondre\Documents\gloom\gloom\shaders\simple.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\Sondre\Documents\gloom\gloom\shaders\simple.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\Sondre\Documents\gloom\.gitignore" />
+    <None Include="C:\Users\Sondre\Documents\gloom\.gitmodules" />
+    <None Include="C:\Users\Sondre\Documents\gloom\CMakeLists.txt" />
+    <None Include="C:\Users\Sondre\Documents\gloom\README.rst" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="headers">
+      <UniqueIdentifier>{D6049324-E772-396A-A478-361A9B69225F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{78474769-263F-3692-A732-CB3FC53F56F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{3F541F98-3AFF-30C8-862C-3EB4B7FD4CDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vendors">
+      <UniqueIdentifier>{08A7FF66-0362-3836-A600-BFA16D354AD8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

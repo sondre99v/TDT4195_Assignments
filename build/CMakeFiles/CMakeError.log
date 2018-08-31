@@ -1,0 +1,38 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/Sondre/Documents/gloom/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_bf34a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 30/08/18 14:47:50.
+Project "C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\cmTC_bf34a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_bf34a.dir\Debug\".
+  Creating directory "C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_bf34a.dir\Debug\cmTC_bf34a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_bf34a.dir\Debug\cmTC_bf34a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bf34a.dir\Debug\\" /Fd"cmTC_bf34a.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24213.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bf34a.dir\Debug\\" /Fd"cmTC_bf34a.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\cmTC_bf34a.vcxproj]
+Done Building Project "C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\cmTC_bf34a.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\cmTC_bf34a.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\Sondre\Documents\gloom\build\CMakeFiles\CMakeTmp\cmTC_bf34a.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.55
+
+

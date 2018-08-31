@@ -1,0 +1,4 @@
+C:/Users/Sondre/Documents/gloom/build/CMakeFiles/gloom.dir
+C:/Users/Sondre/Documents/gloom/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Sondre/Documents/gloom/build/gloom/vendor/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Sondre/Documents/gloom/build/gloom/vendor/glfw/src/CMakeFiles/glfw.dir

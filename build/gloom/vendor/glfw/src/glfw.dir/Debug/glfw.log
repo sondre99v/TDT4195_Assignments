@@ -1,0 +1,14 @@
+﻿  context.c
+  init.c
+  input.c
+  monitor.c
+  window.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+  win32_time.c
+  win32_tls.c
+  win32_window.c
+  wgl_context.c
+  Generating Code...
+  glfw.vcxproj -> C:\Users\Sondre\Documents\gloom\build\gloom\vendor\glfw\src\Debug\glfw3.lib
