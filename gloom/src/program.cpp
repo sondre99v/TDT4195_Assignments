@@ -13,7 +13,7 @@ void runProgram(GLFWwindow* window)
     glEnable(GL_CULL_FACE);
 
     // Set default colour after clearing the colour buffer
-    glClearColor(0.3f, 0.5f, 0.8f, 1.0f);
+    glClearColor(0.0f, 0.5f, 0.0f, 1.0f);
 
     // Set up your scene here (create Vertex Array Objects, etc.)
 
