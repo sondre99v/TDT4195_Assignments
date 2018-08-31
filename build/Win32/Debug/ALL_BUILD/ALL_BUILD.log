@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1821,5): warning : The referenced project 'C:\Users\Sondre\Documents\gloom\build\gloom\vendor\glfw\src\glfw.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1821,5): warning : The referenced project 'C:\Users\Sondre\Documents\gloom\build\gloom.vcxproj' does not exist.
