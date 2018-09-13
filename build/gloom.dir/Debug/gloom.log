@@ -1,4 +1,4 @@
 ﻿  program.cpp
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(53): warning C4189: 'vao': local variable is initialized but not referenced
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(104): warning C4189: 'vao': local variable is initialized but not referenced
   gloom.vcxproj -> C:\Users\Sondre\Documents\gloom\build\gloom\Debug\gloom.exe
   gloom.vcxproj -> C:/Users/Sondre/Documents/gloom/build/gloom/Debug/gloom.pdb (Full PDB)
