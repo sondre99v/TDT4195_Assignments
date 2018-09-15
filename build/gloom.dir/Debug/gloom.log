@@ -1,4 +1,23 @@
 ﻿  program.cpp
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(104): warning C4189: 'vao': local variable is initialized but not referenced
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec4.hpp(139): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec4.hpp(369): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec4.hpp(140): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec4.hpp(141): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec3.hpp(77): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec3.hpp(262): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec3.hpp(78): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec3.hpp(79): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(73): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(236): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(74): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(75): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(123): warning C4189: 'vao': local variable is initialized but not referenced
   gloom.vcxproj -> C:\Users\Sondre\Documents\gloom\build\gloom\Debug\gloom.exe
   gloom.vcxproj -> C:/Users/Sondre/Documents/gloom/build/gloom/Debug/gloom.pdb (Full PDB)
