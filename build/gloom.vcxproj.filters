@@ -10,6 +10,15 @@
     <ClCompile Include="C:\Users\Sondre\Documents\gloom\gloom\vendor\glad\src\glad.c">
       <Filter>vendors</Filter>
     </ClCompile>
+    <ClCompile Include="..\gloom\src\OBJLoader.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gloom\src\sceneGraph.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gloom\src\toolbox.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\gloom\camera.hpp">
@@ -23,6 +32,21 @@
     </ClInclude>
     <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\program.hpp">
       <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gloom\src\OBJLoader.hpp">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gloom\src\floats.hpp">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gloom\src\mesh.hpp">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gloom\src\sceneGraph.hpp">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gloom\src\toolbox.hpp">
+      <Filter>sources</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -50,5 +74,8 @@
     <Filter Include="vendors">
       <UniqueIdentifier>{08A7FF66-0362-3836-A600-BFA16D354AD8}</UniqueIdentifier>
     </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\gloom\steve.obj" />
   </ItemGroup>
 </Project>

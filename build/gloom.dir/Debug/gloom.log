@@ -11,13 +11,24 @@ c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(73): w
   c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(236): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled
 c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(74): warning C4201: nonstandard extension used: nameless struct/union
 c:\users\sondre\documents\gloom\gloom\vendor\glm\glm\detail\type_vec2.hpp(75): warning C4201: nonstandard extension used: nameless struct/union
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(49): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(51): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(123): warning C4189: 'vao': local variable is initialized but not referenced
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(85): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(130): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(199): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(210): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\sondre\documents\gloom\gloom\src\floats.hpp(92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp(203): note: see reference to function template instantiation 'float3::float3<double>(T)' being compiled
+          with
+          [
+              T=double
+          ]
   gloom.vcxproj -> C:\Users\Sondre\Documents\gloom\build\gloom\Debug\gloom.exe
   gloom.vcxproj -> C:/Users/Sondre/Documents/gloom/build/gloom/Debug/gloom.pdb (Full PDB)

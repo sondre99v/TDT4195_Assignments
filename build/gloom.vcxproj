@@ -252,8 +252,16 @@
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\gloom\src\OBJLoader.cpp" />
+    <ClCompile Include="..\gloom\src\sceneGraph.cpp" />
+    <ClCompile Include="..\gloom\src\toolbox.cpp" />
     <ClCompile Include="C:\Users\Sondre\Documents\gloom\gloom\src\main.cpp" />
     <ClCompile Include="C:\Users\Sondre\Documents\gloom\gloom\src\program.cpp" />
+    <ClInclude Include="..\gloom\src\floats.hpp" />
+    <ClInclude Include="..\gloom\src\mesh.hpp" />
+    <ClInclude Include="..\gloom\src\OBJLoader.hpp" />
+    <ClInclude Include="..\gloom\src\sceneGraph.hpp" />
+    <ClInclude Include="..\gloom\src\toolbox.hpp" />
     <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\gloom\camera.hpp" />
     <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\gloom\gloom.hpp" />
     <ClInclude Include="C:\Users\Sondre\Documents\gloom\gloom\src\gloom\shader.hpp" />
@@ -276,6 +284,11 @@
       <Project>{CC9E8357-8C14-3BCE-A582-081E6B14401C}</Project>
       <Name>glfw</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\gloom\steve.obj">
+      <FileType>Document</FileType>
+    </Image>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
